@@ -2,7 +2,7 @@ computer:
   cpu:
     manufacturer: MackBook Pro
     cores:
-      - "6-Core"
+      - 6-Core
       - "2,6GHz"
     memory:
       - Micron
