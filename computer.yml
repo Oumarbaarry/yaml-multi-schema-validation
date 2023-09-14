@@ -1,3 +1,17 @@
 computer:
   cpu:
-    cores: 8
+    manufacturer: MackBook Pro
+    cores:
+      - "6-Core"
+    frequency:
+      - "2,6GHz"
+    memory:
+      - Micron
+      - "16GB"
+      - DDR4
+    disk:
+      - Intel
+      - "630"
+      - UDH
+
+
