@@ -3,6 +3,6 @@ car:
   model: Volvo v60
   year: "2020"
   attributes:
-    - colour: Black
-    - fuel: gasoline
-  reg: "UDW 237"
+    - Black
+    - gasoline
+  reg: "UDW237"
