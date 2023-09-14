@@ -3,7 +3,6 @@ computer:
     manufacturer: MackBook Pro
     cores:
       - "6-Core"
-    frequency:
       - "2,6GHz"
     memory:
       - Micron
