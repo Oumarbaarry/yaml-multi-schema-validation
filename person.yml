@@ -5,4 +5,7 @@ person:
   age: 50
   class: Java22
   start_year: 2022
-  hobbies: programing
+  hobbies:
+    - Programming
+    - Sport
+    - Soccer
