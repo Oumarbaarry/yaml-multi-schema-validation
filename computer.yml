@@ -2,14 +2,14 @@ computer:
   cpu:
     manufacturer: MackBook Pro
     cores: 6
-    frequency: 2,6
-    memory:
+    frequency: 2.6
+  memory:
      manufacturer: Micron
      size: 16
      type: DDR4
-    disk:
-      manufacturer: Intel
-      size: 630
-      type: UDH
+  disk:
+     manufacturer: Intel
+     size: 630
+     type: UDH
 
 
